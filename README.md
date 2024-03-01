@@ -8,4 +8,4 @@
 - Java 21
 - JUnit 5.10.2 
 - Log4j 2.6.1
-- maven
+- Maven
